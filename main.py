@@ -1,4 +1,5 @@
-pip install folium
+!pip install folium
+
 
 
 
