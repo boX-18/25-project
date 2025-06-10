@@ -1,4 +1,6 @@
+import streamlit as st
 import folium
+from streamlit_folium import st_folium
 
 # 서울시 중심 좌표
 seoul_center = [37.5665, 126.9780]
