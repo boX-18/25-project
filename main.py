@@ -1,3 +1,7 @@
+pip install folium
+
+
+
 import folium
 
 # 서울시 중심 좌표
